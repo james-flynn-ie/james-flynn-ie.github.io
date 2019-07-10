@@ -10,7 +10,7 @@ By day, I'm a DevOps Engineer living in Cork, Ireland and by night, I'm an Open 
 
 My hobbies include learning new programming languages and tools through Open Source Software (naturally), reading Sci-Fi, Xbox gaming and spending quality time with the dogs.
 
-I'm really interested in learning and contributing to up and coming languages and technologies, so please reach out to me if you are involved in an Open Source Software project and think I could be of help to you.
+I'm really interested in learning and contributing to up-and-coming languages and technologies, so please reach out to me if you are involved in an Open Source Software project and think I could be of help to you.
 
 ### Project Euler Links
 
