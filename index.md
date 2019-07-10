@@ -1,4 +1,4 @@
-# Welcome to James Flynn's GitHub Pages
+# Welcome to [James Flynn](https://github.com/james-flynn-ie)'s GitHub Pages
 
 Hello, and welcome to my web page, hosted by GitHub Pages.
 
