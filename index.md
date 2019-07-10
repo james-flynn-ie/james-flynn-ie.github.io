@@ -11,7 +11,6 @@ _<https://projecteuler.net/about>_
 The purpose of these repositories is to share solutions to the [problems](https://projecteuler.net/archives), and to help each other improve as programmers by sharing solutions and suggesting ways to improve the code.
 
 ### Project Euler Links
-My GitHub Pages:
 
 - [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo)
 
