@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to James Flynn's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/james-flynn-ie/james-flynn-ie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Project Euler
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Project Euler?
 
-### Markdown
+`Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_<https://projecteuler.net/about>_
 
-```markdown
-Syntax highlighted code block
+The purpose of these repositories is to share solutions to the [problems](https://projecteuler.net/archives), and to help each other improve as programmers by sharing solutions and suggesting ways to improve the code.
 
-# Header 1
-## Header 2
-### Header 3
+### Project Euler Links
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/james-flynn-ie/james-flynn-ie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo) 
+[projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava)
