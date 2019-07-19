@@ -4,7 +4,7 @@ Hello and welcome to my web page, hosted by GitHub Pages.
 
 Here you will find a bit about me, as well as some links to my current projects.
 
-If you would like to contribute to any of the projects, then please follow one of the project links and check out the Contributing Guide.
+If you would like to contribute, then please follow one of the project links and check out the Contributing Guide.
 
 ### About Me
 
