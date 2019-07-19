@@ -1,14 +1,14 @@
 # Welcome to [James Flynn](https://github.com/james-flynn-ie)'s GitHub Pages
 
-Hello, and welcome to my web page, hosted by GitHub Pages.
+Hello and welcome to my web page, hosted by GitHub Pages.
 
 Here you will find a bit about me, as well as some links to my current projects.
 
-If you would like to contribute to any of the projects, then please follow the links and check out the Contributing Guide.
+If you would like to contribute to any of the projects, then please follow one of the project links and check out the Contributing Guide.
 
 ### About Me
 
-By day, I'm a DevOps Engineer living in Cork, Ireland and by night, I'm an Open Source Contributor.
+By day, I'm a DevOps Engineer living and working in Cork, Ireland. By night, I'm an Open Source Contributor.
 
 My hobbies include learning new programming languages and tools through Open Source Software (naturally), reading Sci-Fi, Xbox gaming and spending quality time with the dogs.
 
@@ -20,4 +20,4 @@ I'm really interested in learning and contributing to up-and-coming languages an
 
 - [projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava)
 
-Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have worked on.
+Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to.
