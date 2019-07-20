@@ -8,6 +8,8 @@ If you would like to contribute, then please follow one of the project links and
 
 ### About Me
 
+![alt text](https://github.com/james-flynn-ie/james-flynn-ie.github.io/blob/master/images/james_pic.png)
+
 By day, I'm a DevOps Engineer living and working in Cork, Ireland. By night, I'm an Open Source Contributor.
 
 My hobbies include learning new programming languages and tools through Open Source Software (naturally), reading Sci-Fi, Xbox gaming and spending quality time with the dogs.
