@@ -10,7 +10,7 @@ If you would like to contribute to any of the repositories, then please follow o
 
 ![James Flynn](images/james_pic.png)
 
-I'm a DevOps Engineer living and working in Cork, Ireland by day. 
+By day, I'm a DevOps Engineer living and working in Cork, Ireland. 
 
 By night, I'm an Open Source Contributor.
 
