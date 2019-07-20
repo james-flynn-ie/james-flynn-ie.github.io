@@ -8,7 +8,7 @@ If you would like to contribute to any of the repositories, then please follow o
 
 ### About Me
 
-![alt text](https://github.com/james-flynn-ie/james-flynn-ie.github.io/blob/master/images/james_pic.png)
+![James Flynn](https://github.com/james-flynn-ie/james-flynn-ie.github.io/blob/master/images/james_pic.png)
 
 I'm a DevOps Engineer living and working in Cork, Ireland by day. By night, I'm an Open Source Contributor.
 
