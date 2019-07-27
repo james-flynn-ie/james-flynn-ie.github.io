@@ -16,11 +16,11 @@ Here you will find a bit about me, as well as some links to my current projects.
 
 If you would like to contribute to any of the repositories, then please follow one of the project links and check out the Contributing Guide.
 
-### About Me
+## About Me
 
 ![James Flynn](images/james_pic.png)
 
-I'm a DevOps Engineer living and working in Cork, Ireland. 
+I'm a DevOps Engineer living and working in Cork, Ireland.
 
 By night, I'm an Open Source Contributor.
 
@@ -28,7 +28,7 @@ My hobbies include learning new programming languages and tools through Open Sou
 
 I'm really interested in learning and contributing to up-and-coming languages and technologies, so please reach out to me if you are involved in an Open Source Software project and think I could be of help to you.
 
-### Project Euler Links
+## Project Euler Links
 
 - [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo)
 
