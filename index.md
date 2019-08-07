@@ -1,5 +1,12 @@
 ---
 title: James Flynn's Github Pages
+description: GitHub Page showcasing the portfolio of DevOps Engineer, James Flynn.
+logo: images/james_pic.png
+social:
+  name: James Flynn
+  links:
+    - https://ie.linkedin.com/in/jamesflynnie
+lang: en_IE
 ---
 <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png?v=8j8977eB5g">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png?v=8j8977eB5g">
