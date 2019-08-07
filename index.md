@@ -1,4 +1,5 @@
 ---
+title: James Flynn's Github Pages
 ---
 <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png?v=8j8977eB5g">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png?v=8j8977eB5g">
