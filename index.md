@@ -40,9 +40,9 @@ I'm really interested in learning and contributing to up-and-coming languages an
 
 ## Project Euler Links
 
-- [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo)
+- [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo/README.html)
 
-- [projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava)
+- [projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava/README.html)
 
 Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to.
 
