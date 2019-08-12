@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+url: "http://james-flynn-ie.github.io"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
