@@ -56,10 +56,10 @@ Here are some of my favourite repos that I've created. Project Euler is a math/c
 
 ### Other Repositories
 
-Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to:
+Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects which I have contributed to:
 
 <iframe src="https://githubbadge.appspot.com/james-flynn-ie?s=1" style="border: 10;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-If you see anything that you like, then please feel free to Star or Contribute!
+If you see anything that you like, then please feel free to Star or Fork and contribute to any of the repositories.
 
 ## Enjoy!
