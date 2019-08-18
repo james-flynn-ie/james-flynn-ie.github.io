@@ -44,12 +44,18 @@ My hobbies include learning new programming languages and tools through Open Sou
 
 I'm really interested in learning and contributing to up-and-coming languages and technologies, so please reach out to me if you are involved in an Open Source Software project and think I could be of help to you.
 
-## Project Euler Links
+## GitHub Repositories
+
+Here are some of my favourite repos I've created:
 
 - [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo/README.html)
 
 - [projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava/README.html)
 
-Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to.
+Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to:
+
+<iframe src="https://githubbadge.appspot.com/james-flynn-ie?s=1" style="border: 10;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+
+If you see anything that you like, then please feel free to Star or Contribute!
 
 ## Enjoy!
