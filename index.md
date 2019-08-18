@@ -33,7 +33,7 @@ If you would like to contribute to any of the repositories, then please follow o
 
 ## About Me
 
-![James Flynn](images/james_pic.png)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_IE" data-type="horizontal" data-theme="dark" data-vanity="jamesflynnie"><a class="LI-simple-link" href='https://ie.linkedin.com/in/jamesflynnie?trk=profile-badge'>James Flynn</a></div>
 
 I'm a DevOps Engineer living and working in Cork, Ireland.
 
