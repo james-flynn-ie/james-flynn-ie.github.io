@@ -20,7 +20,7 @@ lang: en_IE
 <meta name="msapplication-config" content="images/favicon/browserconfig.xml?v=8j8977eB5g">
 <meta name="theme-color" content="#ffffff">
 
-<!-- LinkedIn profile badge JS -->
+<!-- LinkedIn profile badge JS script link -->
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 # Welcome to [James Flynn](https://github.com/james-flynn-ie)'s GitHub Pages
@@ -33,6 +33,7 @@ If you would like to contribute to any of the repositories, then please follow o
 
 ## About Me
 
+<!-- LinkedIn profile badge -->
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_IE" data-type="horizontal" data-theme="dark" data-vanity="jamesflynnie"><a class="LI-simple-link" href='https://ie.linkedin.com/in/jamesflynnie?trk=profile-badge'>James Flynn</a></div>
 
 I'm a DevOps Engineer living and working in Cork, Ireland.
