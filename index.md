@@ -54,6 +54,8 @@ Here are some of my favourite repos that I've created. Project Euler is a math/c
 
 - [projectEulerJava](https://james-flynn-ie.github.io/projectEulerJava/README.html)
 
+### Other Repositories
+
 Please feel free to check out my [GitHub Profile](https://github.com/james-flynn-ie) to see some of the other Open Source projects I have contributed to:
 
 <iframe src="https://githubbadge.appspot.com/james-flynn-ie?s=1" style="border: 10;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
