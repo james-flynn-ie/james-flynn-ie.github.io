@@ -9,6 +9,7 @@ social:
 lang: en_IE
 ---
 
+<!-- Favicon image sizes to support rendering on multiple OSs/platforms -->
 <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png?v=8j8977eB5g">
 <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png?v=8j8977eB5g">
 <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png?v=8j8977eB5g">
@@ -18,6 +19,9 @@ lang: en_IE
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="images/favicon/browserconfig.xml?v=8j8977eB5g">
 <meta name="theme-color" content="#ffffff">
+
+<!-- LinkedIn profile badge JS -->
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 # Welcome to [James Flynn](https://github.com/james-flynn-ie)'s GitHub Pages
 
