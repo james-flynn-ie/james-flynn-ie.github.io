@@ -48,7 +48,7 @@ I'm really interested in learning and contributing to up-and-coming languages an
 
 ### Project Euler
 
-Here are some of my favourite repos that I've created. Project Euler is a mathematical/computational problem website which encourages programmers to find efficient algorithms. They are a great way to learn new languages:
+Here are some of my favourite repos that I've created. Project Euler is a mathematical and computational problem website which encourages programmers to find efficient algorithms. They are a great way to learn new languages:
 
 - [projectEulerGo](https://james-flynn-ie.github.io/projectEulerGo/README.html)
 
