@@ -60,6 +60,6 @@ Please feel free to check out my [GitHub Profile](https://github.com/james-flynn
 
 <iframe src="https://githubbadge.appspot.com/james-flynn-ie?s=1" style="border: 10;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-If you see anything that you like, then please feel free to Star or Fork and contribute to any of the repositories.
+If you see any projects that you like, then please feel free to Star or Fork them and contribute.
 
-## Enjoy!
+## Have fun and Enjoy!
