@@ -12,4 +12,4 @@ lang: en_IE
 
 For individual project contribution guidelines, please see:
 - [ProjectEulerGo](https://james-flynn-ie.github.io/projectEulerGo/CONTRIBUTING)
-- [PrjectEulerJava](https://james-flynn-ie.github.io/projectEulerJava/CONTRIBUTING.html)
+- [ProjectEulerJava](https://james-flynn-ie.github.io/projectEulerJava/CONTRIBUTING.html)
