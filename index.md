@@ -29,7 +29,7 @@ Hello and welcome to my GitHub Pages.
 
 Here you will find a bit about me, as well as some links to my current projects.
 
-If you would like to contribute to any of the repositories, then please follow one of the project links and check out the Contributing Guide.
+If you would like to contribute to any of the repositories, then please follow one of the project links and check out the [Contributing Guide](https://james-flynn-ie.github.io/CONTRIBUTING.html).
 
 ## About Me
 
