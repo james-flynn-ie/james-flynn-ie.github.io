@@ -9,6 +9,7 @@ social:
     - https://github.com/james-flynn-ie
 lang: en_IE
 ---
+Thanks for showing an interest in contributing to these repositories!
 
 For individual project contribution guidelines, please see:
 - [ProjectEulerGo](https://james-flynn-ie.github.io/projectEulerGo/CONTRIBUTING)
